@@ -1,0 +1,26 @@
+=== EDUCATION DISPARITY INSIGHTS ===
+Total clusters identified: 4
+
+--- Cluster 0 ---
+Typical Province        : JAWA BARAT
+Avg Population Density  : 722.54
+Public School Ratio (0-1): 0.01
+Number of Schools       : 42046
+
+--- Cluster 1 ---
+Typical Province        : SUMATERA UTARA
+Avg Population Density  : 146.72
+Public School Ratio (0-1): 0.94
+Number of Schools       : 70498
+
+--- Cluster 2 ---
+Typical Province        : JAWA BARAT
+Avg Population Density  : 837.76
+Public School Ratio (0-1): 1.00
+Number of Schools       : 97559
+
+--- Cluster 3 ---
+Typical Province        : DKI JAKARTA
+Avg Population Density  : 16084.26
+Public School Ratio (0-1): 0.47
+Number of Schools       : 4793
